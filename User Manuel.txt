@@ -1,0 +1,8 @@
+1)This game is currently working on PC.
+2)Release the "Merge District" folder out of the zip to open it through "Unity Hub".
+3)It is created in Unity, version 2021.3.1f1.
+4)To play the game in unity hub, mouseclick to click buttons, to play the actual game press spacebar to get the items from present box and merge items via drag and drop.
+5)Quit Buttons are automatically quits the game. On unity, you can check the corresponding answer in the terminal because it will not terminate in the unity hub.
+6)You can download the game and open it through any android device / emulator. However, Merge mechanic has bugs in android, so the best working way is through unity hub program in PC.
+7)Thank you for reading.
+
